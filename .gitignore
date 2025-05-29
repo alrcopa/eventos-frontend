@@ -134,3 +134,22 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# Java
+/target/
+*.jar
+
+# Node / Angular
+/node_modules/
+/dist/
+
+# IDEs
+.idea/
+*.iml
+
+# Ambiente
+.env
+
+# Logs
+*.log
+
